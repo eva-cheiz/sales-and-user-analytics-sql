@@ -56,3 +56,8 @@ Key questions answered:
 Решаемые задачи: анализ категорий и выручки по товарам, агрегация продаж по продавцам, фильтрация сотрудников по зарплате и возрасту, построение полного профиля сотрудника через JOIN, поиск сотрудников без продаж.
 
 Ключевые техники: DDL (`CREATE TABLE`, `INSERT INTO`), `JOIN` и `LEFT JOIN`, `NULL` handling, агрегатные функции.
+
+## Скриншоты проекта
+
+![SQL](Images/screenshots_case_1.png)
+![SQL](Images/screenshots_case_2.png)
