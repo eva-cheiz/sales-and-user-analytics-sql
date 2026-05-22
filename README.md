@@ -59,5 +59,5 @@ Key questions answered:
 
 ## Скриншоты проекта
 
-![sales-and-user-analytics-sql](Images/Screenshots_case_1.png)
-![sales-and-user-analytics-sql](Images/Screenshots_case_2.png)
+![sales-and-user-analytics-sql](Images/Screenshots_case_1.PNG)
+![sales-and-user-analytics-sql](Images/Screenshots_case_1.PNG)
